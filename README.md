@@ -87,7 +87,8 @@ Contributions to this project are welcome! Feel free to open issues, submit pull
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is unlicensed and is considered to be in the public domain. You are free to use, modify, and distribute it without any legal restrictions. However, keep in mind that this means there are no warranties or guarantees associated with the project. Use it at your own discretion and responsibility.
+
 
 ## Acknowledgments
 
