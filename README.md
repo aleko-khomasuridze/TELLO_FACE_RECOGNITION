@@ -1,8 +1,5 @@
 #TELLO FACE DETECTION
 
-
-# Face Detection and Annotation with OpenCV and Drone Control
-
 ![Project Image](project_image.jpg)
 
 ## Table of Contents
