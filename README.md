@@ -1,6 +1,6 @@
 #TELLO FACE DETECTION
 
-```markdown
+
 # Face Detection and Annotation with OpenCV and Drone Control
 
 ![Project Image](project_image.jpg)
