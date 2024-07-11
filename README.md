@@ -95,4 +95,3 @@ This project is unlicensed and is considered to be in the public domain. You are
 - Special thanks to Aleko Khomasuridze for the original code and idea.
 ```
 
-This `README.md` file provides a detailed introduction to the project, instructions on how to get started, customize, and contribute. It also acknowledges the original author and provides a clear structure for potential contributors or users.
